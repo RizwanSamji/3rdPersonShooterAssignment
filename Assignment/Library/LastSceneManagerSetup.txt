@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Lab 1/Scene/Town.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Lab 1/Scene/Room.unity
+  isLoaded: 0
+  isActive: 0
